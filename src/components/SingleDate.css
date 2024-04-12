@@ -1,0 +1,82 @@
+.inputDiv {
+  /* margin: 15px 4vh; */
+  padding: 15px;
+  border: 1px solid black;
+  height: 10vh;
+  display: flex;
+}
+
+.singleTodoItem {
+  max-width: 12rem;
+  min-width: 12rem;
+  padding: 15px;
+  border-bottom: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.dateDiv {
+  padding: 15px 4vw;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.deleteIcon {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.EditIcon {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.mainSingleDateDiv {
+  height: 100vh;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.markedTodo {
+  max-width: 12rem;
+  min-width: 12rem;
+  padding: 15px;
+  border-bottom: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  background-color: green;
+}
+
+.dateValue {
+  /* border: 1px solid black; */
+  border-radius: 100%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-color: lightseagreen;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.NondateValue {
+  /* border: 1px solid black; */
+  border-radius: 100%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.colorDayName {
+  color: lightseagreen;
+}
