@@ -2,21 +2,13 @@
   "todos": [
     {
       "date": "2024-04-10",
-      "data": "heklp",
+      "data": "test",
       "id": "Tj7SxZg",
       "done": true
     },
     {
-      "done": true,
-      "id": "vO-8QV6"
-    },
-    {
-      "done": true,
-      "id": "9TwsIXs"
-    },
-    {
       "date": "2024-04-12",
-      "data": "heyy",
+      "data": "test",
       "id": "UIdCXth",
       "done": true
     },
@@ -40,13 +32,13 @@
     },
     {
       "date": "2024-04-19",
-      "data": "i am 19 ",
+      "data": "i am test",
       "done": false,
       "id": "nW_rUbq"
     },
     {
       "date": "2024-04-18",
-      "data": "i am 18 ",
+      "data": "i am 18",
       "done": true,
       "id": "BtgO0vr"
     },
